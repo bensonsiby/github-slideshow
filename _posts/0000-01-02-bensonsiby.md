@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Benson Bastian Siby
+I'm from Pala,
 Use the left arrow to go back!
